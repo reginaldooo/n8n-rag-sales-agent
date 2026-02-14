@@ -23,11 +23,11 @@ Beyond the operational need, this project serves as a technical exploration into
 
 ### 1. The Brain (Telegram Bot Agent)
 The main workflow that handles chat memory, intent recognition, and RAG retrieval.
-![Main Workflow](assets/workflow-telegram-bot.png)
+![Main Workflow](assets/workflow-telegram-bot.jpeg)
 
 ### 2. The Knowledge Loader
 The pipeline responsible for ingesting company data/documents into Pinecone Vector Store.
-![Loader Workflow](assets/workflow-knowledge-loader.png)
+![Loader Workflow](assets/workflow-knowledge-loader.jpeg)
 
 ---
 
