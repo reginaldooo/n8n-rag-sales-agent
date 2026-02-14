@@ -50,7 +50,7 @@ The pipeline responsible for ingesting company data/documents into Pinecone Vect
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/username/ai-sales-agent-rag.git](https://github.com/username/ai-sales-agent-rag.git)
+    git clone [https://github.com/reginaldooo/n8n-rag-sales-agent.git](https://github.com/username/ai-sales-agent-rag.git)
     ```
 
 2.  **Import Workflows**
